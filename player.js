@@ -5,9 +5,9 @@ const audio = document.querySelector("audio");
 
 const data = {
     title:
-    "Esta é a melhor Rádio Rock!",
+    "",
     artist: "",
-    cover: "/images.png",
+    cover: "/images/logo-internet512.png",
     file: "http://s3.voscast.com:9678/;"
 };
 cover.style.background = `url('${data.cover}') no-repeat center center / cover`;
